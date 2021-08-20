@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eden 👩‍💻
-- 👀 I’m interested in data structurse🌲⛓ algorithem🧠 and plants🍀.
+- 👀 I’m interested in data structures🌲⛓ algorithm🧠 and plants🍀.
 - 🌱 I’m currently learning this semester opereting systems🍴, Computer Organization And Programming regarding intel x86💻 and my favorite - Algorithems 1🥰.
 - 📫 You can reach me via email  eden696b@gmail.com💃
 
